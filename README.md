@@ -4,16 +4,6 @@ An AI-powered Object Detection web application built with **React**, **FastAPI**
 
 ---
 
-## 📸 Demo
-
-> Add screenshots or GIFs here after deployment.
-
-- Home Page
-- Live Camera Detection
-- Video Upload Detection
-- Detection Results
-
----
 
 ## ✨ Features
 
