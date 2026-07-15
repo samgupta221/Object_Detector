@@ -90,15 +90,6 @@ object-detection/
 
 ---
 
-## 📡 API Endpoints
-
-| Method | Endpoint | Description |
-|---------|----------|-------------|
-| POST | `/detect/video` | Detect objects in uploaded video |
-| GET | `/camera` | Real-time camera detection |
-
----
-
 ## 📦 Dependencies
 
 ### Backend
